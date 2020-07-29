@@ -1,2 +1,0 @@
-
-echo "tomorrow world"
